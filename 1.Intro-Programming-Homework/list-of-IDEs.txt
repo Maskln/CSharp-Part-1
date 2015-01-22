@@ -1,0 +1,17 @@
+Popular Development Environments (IDEs):
+
+CodeLite:
+CodeLite is an open source, free, cross platform IDE for the C/C++ programming languages which runs best on all major Platforms (OSX, Windows and Linux).
+
+Zeus IDE:
+Zeus is a fast and lean, fully scriptable, keyboard centric editor packed full of programmer specific features making it one of the best programmer's editor available. Zeus is a powerful, fast and responsive, highly configurable, keyboard centric programmer's editor designed specifically for the task of software development. It is packed full of features designed to make the task of writing code easier and more productive.
+
+Xcode:
+The Xcode IDE is at the center of the Apple development experience. Tightly integrated with the Cocoa and Cocoa Touch frameworks, Xcode is an incredibly productive environment for building amazing apps for Mac, iPhone, and iPad.
+
+KDevelop:
+KDevelop is a free Integrated Development Environment (IDE). It uses the GNU Compiler collection, rather than implement its own compiler. KDevelop integrates a lot of tools, scripts, and templates in a common user interface. It consists of several user interfaces modes, an Application Wizard, several project management system, editing tools, various file and class browsers, a debugger interface, several plugin tool and a set of other diagnosis, documentation, and optimization helper tools.
+
+Eclipse:
+Most people know Eclipse as an integrated development environment (IDE) for Java. The Eclipse IDE is definitely the most known product of the Eclipse Open Source project. Today it is the leading development environment for Java with a market share of approximately 65%. The Eclipse IDE can be extended with additional software components. Eclipse calls these software components plug-ins. Several Open Source projects and companies have extended the Eclipse IDE or created standalone applications (Eclipse RCP) on top of the Eclipse framework.
+
