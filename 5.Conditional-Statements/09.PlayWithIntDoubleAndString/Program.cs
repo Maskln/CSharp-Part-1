@@ -40,6 +40,7 @@ using System;
 
 
                 default:
+                    Console.WriteLine("Incorrect Choise!");
                     break;
             }
 
